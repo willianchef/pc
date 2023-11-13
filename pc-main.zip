@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Produtos - loja de roupa de roupa inx</title>
+        <link rel="stylesheet" href="produtos.css">
+    </head>
+    <body>
+        <header>
+            <h1><img src="https://designwebsite.com.br/wp-content/uploads/2021/05/criacao-de-logo-para-loja-de-roupas-masculinas.jpg"></h1>
+
+            <ul>
+                <li>Home</li>
+                <li>Produtos</li>
+                <li>Contato</li>
+            </ul>
+        </header>
+    </body>
+</html>
+       
+        <header>
+            <h1><img src="https://s3-sa-east-1.amazonaws.com/projetos-artes/fullsize%2F2019%2F07%2F09%2F17%2FLogo-258649_25301_173315465_1596245611.jpg"></h1>
+
+            <ul>
+                <li>Home</li>
+                <li>Produtos</li>
+                <li>Contato</li>
+            </ul>
+        </header>
+    </body>
+</html>
